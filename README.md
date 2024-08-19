@@ -1,6 +1,6 @@
 ## 🏦 Bank Loan Report Analysis
 
-Welcome to the **Bank Loan Analysis** project! This repository contains my detailed analysis of bank loan data aimed at uncovering key insights into loan applications, funding, repayment behaviors, and more. This project demonstrates my expertise in data analysis, SQL, and data visualization more specifically using Tableau Public, and providing valuable insights that can aid in strategic decision-making.
+Welcome to the **Bank Loan Analysis** project! This repository contains my detailed analysis of bank loan data aimed at uncovering key insights into loan applications, funding, repayment behaviors, and more. This project demonstrates my expertise in data analysis, SQL, and data visualization more specifically using Tableau Public, and providing valuable insights that can aid in strategic decision-making. Here's also my Tablau Public link: https://public.tableau.com/shared/HZKZCD3QT?:display_count=n&:origin=viz_share_link
 
 ## 📊 Project Overview
 
@@ -46,4 +46,4 @@ The project includes interactive visualizations created in Tableau. These dashbo
 - Geographical Distribution of Loans
 - Loan Purpose and Performance
 - Loan Term and Employee Length Analysis
-- To view the visualizations, open the Tableau workbook provided in this repository.
+- To view the visualizations, open the Tableau workbook provided in this repository or just click my Tableau Public link

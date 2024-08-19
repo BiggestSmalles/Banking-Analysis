@@ -4,7 +4,7 @@ Welcome to the **Bank Loan Analysis** project! This repository contains my detai
 
 ## 📊 Project Overview
 
-This project explores a dataset of **38,576 bank loan applications**, with a focus on answering critical questions related to loan performance, interest rates, and borrower behavior. The analysis covers various dimensions, including loan status, geographical distribution, and borrower characteristics.
+This project explores a dataset of **38.6K bank loan applications**, with a focus on answering critical questions related to loan performance, interest rates, and borrower behavior. The analysis covers various dimensions, including loan status, geographical distribution, and borrower characteristics.
 
 ### Key Questions Addressed
 - **Loan Volume and Funding:**

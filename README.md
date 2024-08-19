@@ -1,4 +1,4 @@
- 🏦 Bank Loan Report Analysis
+## 🏦 Bank Loan Report Analysis
 
 Welcome to the **Bank Loan Analysis** project! This repository contains my detailed analysis of bank loan data aimed at uncovering key insights into loan applications, funding, repayment behaviors, and more. This project demonstrates my expertise in data analysis, SQL, and data visualization more specifically using Tableau Public, and providing valuable insights that can aid in strategic decision-making.
 
